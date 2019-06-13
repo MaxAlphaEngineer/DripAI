@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DripAI</string>
+
+
+    <string name="title_activity_welcome" translatable="false">Home Screen</string>
+
+    <string name="skip" translatable="false">Tugatish</string>
+    <string name="start" translatable="false">Tushundim</string>
+
+    <string name="slide_1_title" translatable="false">Formulalar</string>
+    <string name="slide_1_desc" translatable="false">Algebra va geometriya bo\'yicha barcha formulalar jamlanmasi</string>
+
+    <string name="slide_2_title" translatable="false">Matematika!</string>
+    <string name="slide_2_desc" translatable="false">Endi doimo sizga ishonchli ko\'makdosh</string>
+
+    <string name="slide_3_title" translatable="false">Yangi g\'oyalar</string>
+    <string name="slide_3_desc" translatable="false">Barini siz bilan o\'zgacha uslubda ulashmoqdamiz</string>
+
+    <string name="slide_4_title" translatable="false">Tezkorlik</string>
+    <string name="slide_4_desc" translatable="false">Dasturni ishga tushiring va istalgan formulani tezda toping</string>
+
+    <string name="play_again_desc" translatable="false">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again" translatable="false">Play Again</string>
+    <string name="next">Keyingisi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>
